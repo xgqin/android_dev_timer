@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GGTimer</string>
+    <string name="init_value">00:00:00</string>
+</resources>
